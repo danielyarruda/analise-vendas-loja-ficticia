@@ -18,14 +18,16 @@ cd analise-vendas-loja-ficticia
 3. Abra o notebook Jupyter:
 jupyter notebook analise_vendas_loja_ficticia.ipynb
 
-
 ## Visualizações
 
 Exemplos de gráficos gerados:
 
-![Vendas Totais por Mês] (link_para_imagem_vendas_mes)
+plt.savefig("grafico_nome.png")
 
-![Produtos Mais Vendidos] (link_para_imagem_produtos_vendidos)
+![Vendas Totais por Mês] ( [download](https://github.com/user-attachments/assets/23248a62-c1ff-43e7-8d7f-e9e4c8fe0b04) ) 
+
+
+![Produtos Mais Vendidos] ( ![download](https://github.com/user-attachments/assets/c017db45-7df9-45af-ad10-d5e9ccfa9f0b) )
 
 ## Contribuições
 
