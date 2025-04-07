@@ -23,8 +23,9 @@ jupyter notebook analise_vendas_loja_ficticia.ipynb
 
 Exemplos de gráficos gerados:
 
-![Vendas Totais por Mês](link_para_imagem_vendas_mes)
-![Produtos Mais Vendidos](link_para_imagem_produtos_vendidos)
+![Vendas Totais por Mês] (link_para_imagem_vendas_mes)
+
+![Produtos Mais Vendidos] (link_para_imagem_produtos_vendidos)
 
 ## Contribuições
 
